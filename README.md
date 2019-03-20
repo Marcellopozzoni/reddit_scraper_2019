@@ -5,7 +5,7 @@ Make sure all dependencies are installed
 
 ## Example of the layout in txt
 ![alt text](https://github.com/aherrmannca/reddit_scraper_2019/blob/master/example_snippet.png)
-NOTE: Title and score are placed below replies despite being created before replies for whatever reason.
+NOTE: Title and score are placed below replies despite being created before replies for whatever reason, but the title is included in the url.
 
 ## How to modify
 
