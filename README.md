@@ -23,7 +23,7 @@ Lines 95-100: Provide a username, client_id, client_secret, and user_agent.
 To get this information:
 1. Use your own reddit username
 2. Set up your own client, to do this view this short tutorial (you only need to read up to registering a bot):
-  [I'm an inline-style link](https://progur.com/2016/09/how-to-create-reddit-bot-using-praw4.html)
+  (https://progur.com/2016/09/how-to-create-reddit-bot-using-praw4.html)
 3. Google a list of common user agents and just use any
 
 ### Run the code and you're set!
