@@ -31,3 +31,6 @@ To get this information:
 ### NOTE: if you want the text to be easily readable, run beautifier.py
 ### I suggest using VSCode to open large text files and going to view > Toggle Word Wrap for the file to be as easily readable as possible
   
+
+## Citations
+I took some of the pushshift code from https://medium.com/@pasdan/how-to-scrap-reddit-using-pushshift-io-via-python-a3ebcc9b83f4
