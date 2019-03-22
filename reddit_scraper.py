@@ -93,10 +93,10 @@ print('Length of unique pulled posts:', num_posts)
 
 
 config = {
-    "username" : "leefflet",
-    "client_id" : "7dkzLIkUoYsytQ",
-    "client_secret" : "2GwGeridvnQ-5StDUSuFyltHMzM",
-    "user_agent" : "Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36"
+    "username" : "",
+    "client_id" : "",
+    "client_secret" : "",
+    "user_agent" : ""
 }
 
 reddit = praw.Reddit(client_id = config['client_id'], \
