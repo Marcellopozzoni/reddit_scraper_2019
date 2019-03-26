@@ -5,7 +5,7 @@ Make sure all dependencies are installed
 
 ## Example of the layout in txt
 ![alt text](https://github.com/aherrmannca/reddit_scraper_2019/blob/master/example_snippet.png)
-NOTE: Title and score are placed below replies despite being created before replies for whatever reason, but the title is included in the url.
+NOTE: Title and score are placed below replies despite being created before replies for whatever reason, but this should only matter if you're reading through the posts and is irrelevant when the JSON is loaded into Python.
 
 ## How to modify
 
